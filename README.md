@@ -6,6 +6,10 @@ Multimedia (Video + Audio) file format information.
 
 `$ npm run mediainfo`
 
+## Screenshot
+
+![home](images/mainWindow.png)
+
 ## Reference
 
 - [MediaInfo](https://mediaarea.net/en/MediaInfo)
