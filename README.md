@@ -9,6 +9,7 @@ Multimedia (Video + Audio) file format information.
 ## Screenshot
 
 ![home](images/mainWindow.png)
+![home](images/electron_tV8XSGuw.png)
 
 ## Reference
 
